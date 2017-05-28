@@ -240,7 +240,7 @@ Some layers beyond Phase 1 including a subscription service, polished UI, advanc
  
 ####  4.3 Token Allocation
  
-![Alt description](assets/5.29.17 Final Token Distb.png)
+![Alt description](assets/token_dist.png)
  
 Founders and Angels will have a two year vesting period at no more than 1,000,000 REX a year. This is to ensure price stability amongst the REX token.
  
