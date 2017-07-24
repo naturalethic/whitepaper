@@ -213,7 +213,7 @@ IPFS provides a means for Rex to distribute the data in a decentralized manner. 
 2. Provide transaction layer that will facilitate sale/lease contracts.
  
  
-## 4.0 Rex’s Model
+## 4.0 Rex's Model
  
 #### 4.1 Model
  
@@ -302,30 +302,30 @@ Week #2: 900 REX Tokens per /1 ETH of Contribution;<br>
 Week #3: 800 REX Tokens per/1 ETH of Contribution;<br>
 Week #4: 700 REX Tokens/ per 1 ETH of Contribution<br>
 
-### Contract Variables<br>
+Contract Variables<br>
 
 The contribution period will conclude when one of the two following variables is met:<br>
 
 Conclusion of the four week contribution period<br>
 Security cap is met: 133,333 ETH<br>
 
-# Pool A (Token Sale) consists of 50% of the Total REX Token Supply. Pool A will be allocated to users who have made contributions during the token sale.<br>
+#### Pool A (Token Sale) consists of 50% of the Total REX Token Supply. Pool A will be allocated to users who have made contributions during the token sale.<br>
 
-# Pool B consists of 20% of the Total REX Token Supply. Pool B will be allocated to the Listing Reward Contract on the REX platform.<br>
+#### Pool B consists of 20% of the Total REX Token Supply. Pool B will be allocated to the Listing Reward Contract on the REX platform.<br>
 
-# Pool C consists of 5% of the Total REX Token Supply. Pool C will be allocated to angel investor.<br>
+#### Pool C consists of 5% of the Total REX Token Supply. Pool C will be allocated to angel investor.<br>
 
-# Pool D consisting of 15% of the Total REX Token Supply. Pool D will be allocated to persons who participated as managers, founders, worked to develop the ideas, implementations and supporting structures of the REX Project.<br>
+#### Pool D consisting of 15% of the Total REX Token Supply. Pool D will be allocated to persons who participated as managers, founders, worked to develop the ideas, implementations and supporting structures of the REX Project.<br>
 
-# Pool E consisting of 7% of the Total REX Token Supply. Pool E will be allocated to partners and/or advisors of the REX Project, as well as to participants of Bounty campaigns.<br>
+#### Pool E consisting of 7% of the Total REX Token Supply. Pool E will be allocated to partners and/or advisors of the REX Project, as well as to participants of Bounty campaigns.<br>
 
-# Pool F consisting 3% of the Total REX Token Supply. Pool F will be allocated to corporate affiliates.<br>
+#### Pool F consisting 3% of the Total REX Token Supply. Pool F will be allocated to corporate affiliates.<br>
 
 The REX Token Sale Address: 0x99d439455991f7F4885F20C634c9a31918D366E5<br>
 
 The token sale contract is based on the OpenZeppelin framework. We have contracted with OpenZeppelin on the creation and testing of the REX token sale contracts. We are also working with Matthew Di Ferrante, who has previously worked with members on the Ethereum Foundation, and recently audited a large exchange’s smart contracting infrastructure that will handle millions of tx’s per day.<br>
 
-### Sending Instructions<br>
+#### Sending Instructions<br>
 
 On the day of the token sale, please review the address on the token sale page and cross reference it with at least two of our verified social media accounts (listed below) before contributing. We will continually post the token sale address over our channels throughout the next week.<br>
  
