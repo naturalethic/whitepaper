@@ -295,7 +295,39 @@ Rex will offer a subscription based model that will handle all backend transacti
  
 #### 4.10 Tokensale
  
-Rex will sell 140,000,000 REX of the total 250,000,000 supply in two token sales. We are currently reviewing several token sale models. We will provide an update as soon as a decision has been made.
+REX tokens will be distributed according to the following schedule:
+
+Week #1: 1,000 REX Tokens per /1 ETH of Contribution;
+Week #2: 900 REX Tokens per /1 ETH of Contribution;
+Week #3: 800 REX Tokens per/1 ETH of Contribution;
+Week #4: 700 REX Tokens/ per 1 ETH of Contribution
+
+Contract Variables
+
+The contribution period will conclude when one of the two following variables is met:
+
+Conclusion of the four week contribution period
+Security cap is met: 133,333 ETH
+
+Pool A (Token Sale) consists of 50% of the Total REX Token Supply. Pool A will be allocated to users who have made contributions during the token sale.
+
+Pool B consists of 20% of the Total REX Token Supply. Pool B will be allocated to the Listing Reward Contract on the REX platform.
+
+Pool C consists of 5% of the Total REX Token Supply. Pool C will be allocated to angel investor.
+
+Pool D consisting of 15% of the Total REX Token Supply. Pool D will be allocated to persons who participated as managers, founders, worked to develop the ideas, implementations and supporting structures of the REX Project.
+
+Pool E consisting of 7% of the Total REX Token Supply. Pool E will be allocated to partners and/or advisors of the REX Project, as well as to participants of Bounty campaigns.
+
+Pool F consisting 3% of the Total REX Token Supply. Pool F will be allocated to corporate affiliates.
+
+The REX Token Sale Address: 0x99d439455991f7F4885F20C634c9a31918D366E5
+
+The token sale contract is based on the OpenZeppelin framework. We have contracted with OpenZeppelin on the creation and testing of the REX token sale contracts. We are also working with Matthew Di Ferrante, who has previously worked with members on the Ethereum Foundation, and recently audited a large exchange’s smart contracting infrastructure that will handle millions of tx’s per day. 
+
+Sending Instructions
+
+On the day of the token sale, please review the address on the token sale page and cross reference it with at least two of our verified social media accounts (listed below) before contributing. We will continually post the token sale address over our channels throughout the next week.
  
 ## 5.0 Conclusion
  
