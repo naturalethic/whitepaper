@@ -321,7 +321,7 @@ Security cap is met: 133,333 ETH<br>
 
 #### Pool F consisting 3% of the Total REX Token Supply. Pool F will be allocated to corporate affiliates.<br>
 
-The REX Token Sale Address: 0x99d439455991f7F4885F20C634c9a31918D366E5<br>
+The REX Token Sale Address: 0xf05a9382A4C3F29E2784502754293D88b835109C<br>
 
 The token sale contract is based on the OpenZeppelin framework. We have contracted with OpenZeppelin on the creation and testing of the REX token sale contracts. We are also working with Matthew Di Ferrante, who has previously worked with members on the Ethereum Foundation, and recently audited a large exchange’s smart contracting infrastructure that will handle millions of tx’s per day.<br>
 
