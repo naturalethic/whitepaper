@@ -278,7 +278,7 @@ Rex requires users to register in order to receive the Listing Reward.  Listings
  
 #### 4.7 Payment Delay
  
-Registered listee’s will need to submit a claim for their listing rewards, upon which there is a 2 week period for other users of the platform to submit a protest vote on the claim.  If there is no protest the listee can withdraw their reward at the end of the 2 weeks.  If the listee loses a protested claim then they loose the pending payments and potentially their verification status.
+Registered listee’s will need to submit a claim for their listing rewards, upon which there is a 2 week period for other users of the platform to submit a protest vote on the claim.  If there is no protest the listee can withdraw their reward at the end of the 2 weeks.  If the listee loses a protested claim then they lose the pending payments and potentially their verification status.
  
 *2-week payment delay process: In the two week delay, other users can flag the listing as spam. If the listing is not flagged by other users, the listee is eligible to claim reward. If the listing is flagged, the flagger and flagee will be identified and notified. The listee can do one of two things:
  
